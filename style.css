@@ -1,0 +1,109 @@
+body {
+
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-25_bc15ec98.jpeg?download=true);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.malos {
+
+    background-color: rgb(185, 59, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: 30px;
+}
+
+.buenos {
+
+    background-color: rgb(83, 82, 182);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: 30px;
+
+}
+
+.imgred {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imgblue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#lider {
+    color: white;
+    font-size: 50px;
+}
+
+#guia {
+    color: white;
+    font-style: italic;
+}
+
+.apoyomal {
+    background-color: rgb(185, 59, 59);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.apoyobien {
+    background-color: rgb(83, 82, 182);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.soldados {
+    background-color: rgb(185, 59, 59);
+    color: white;
+    border-style: dotted;
+    letter-spacing: 10px;
+}
+
+.apoyo {
+
+    text-align: center;
+    color: white;
+}
+
+.naves {
+    text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+    background-color: rgb(83, 82, 182);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.h3 {
+    color: white;
+    background-color: rgb(83, 82, 182);
+}
